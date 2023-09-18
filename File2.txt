@@ -1,0 +1,2 @@
+Add file 2.
+Between the first and second commit.
