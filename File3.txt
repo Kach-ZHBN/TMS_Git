@@ -1,3 +1,4 @@
 Add file 3.
 Between the second and third commit.
 Edit file 3 from main.
+Edited file3 from branch2.
