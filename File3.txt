@@ -1,0 +1,2 @@
+Add file 3.
+Between the second and third commit.
